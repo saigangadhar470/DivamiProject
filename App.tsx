@@ -74,7 +74,7 @@ function App(): React.JSX.Element {
 
   return (
     <View style={backgroundStyle}>
-      <Text>Initial commit</Text>
+      <Text>Initial commit1</Text>
     </View>
   );
 }
